@@ -248,7 +248,7 @@ footer { padding: 24px; text-align: center; font-size: 13px; color: var(--muted)
   border-radius: 14px; color: #fff;
   background:
     linear-gradient(100deg, #1f54aa 0%, #1f54aa 10%, rgba(31, 84, 170, .6) 65%, rgba(31, 111, 235, .15) 100%),
-    url("../imagee/gedungpolmed.jpeg") center right / cover no-repeat,
+    url("../imagee/gedungpolmed_min.jpeg") center right / cover no-repeat,
     #1f54aa;
 }
 .hero > * { position: relative; z-index: 1; max-width: 520px; }
