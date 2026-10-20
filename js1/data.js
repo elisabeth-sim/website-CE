@@ -88,7 +88,7 @@ const PRODI = {
     ],
     struktur: {
       judul: "Struktur Organisasi Jurusan Teknik Komputer dan Informatika (Program Studi Teknik Komputer) Politeknik Negeri Medan",
-      foto: "imagee/struktur%20ce.png"
+      foto: "imagee/struktur%20ce_min.png"
     }
   },
   mi: {
@@ -105,7 +105,7 @@ const PRODI = {
     ],
     struktur: {
       judul: "Struktur Organisasi Program Studi Manajemen Informatika Politeknik Negeri Medan",
-      foto: "imagee/Struktur%20mi.png"
+      foto: "imagee/Struktur%20mi_min.png"
     }
   },
   trpl: {
@@ -122,7 +122,7 @@ const PRODI = {
     ],
     struktur: {
       judul: "Struktur Organisasi Jurusan Teknik Komputer dan Informatika (Program Studi Teknologi Rekayasa Perangkat Lunak) Politeknik Negeri Medan",
-      foto: "imagee/trpl.png"
+      foto: "imagee/trpl_min.png"
     }
   },
   trmg: {
@@ -139,7 +139,7 @@ const PRODI = {
     ],
     struktur: {
       judul: "Struktur Organisasi Jurusan Teknik Komputer dan Informatika (Program Studi Teknologi Rekayasa Multimedia Grafis) Politeknik Negeri Medan",
-      foto: "imagee/trmg.png"
+      foto: "imagee/trmg-min.png"
     }
   }
 };
@@ -149,17 +149,17 @@ const BERITA = [
   { id: 1,
     judul: "Mahasiswa Polmed Raih Tiga Prestasi Nasional di KMIPN 2026",
     tanggal: "17 September 2026",
-    foto: "imagee/image1.png",
+    foto: "imagee/image1_min.png",
     isi: ["Mahasiswa Politeknik Negeri Medan (Polmed) meraih tiga prestasi nasional dalam KMIPN 2026 yang berlangsung pada 9–11 September 2026. Prestasi tersebut meliputi Juara 1 Animasi Kategori Poster, Juara 2 Keamanan Siber Kategori Consistent Flag Seeker, dan Juara 3 Pengembangan Aplikasi Permainan Kategori Narration and Storytelling."] },
   { id: 2,
     judul: "Prestasi Polmed Melonjak pada PORSENI XV 2026, Koleksi 10 Emas dan Total 47 Medali",
     tanggal: "2 Agustus 2026",
-    foto: "imagee/imge1.png",
+    foto: "imagee/imge1_min.png",
     isi: ["Politeknik Negeri Medan (Polmed) meraih 47 medali pada PORSENI XV 2026, terdiri dari 10 emas, 11 perak, dan 26 perunggu. Prestasi ini meningkat signifikan dibandingkan PORSENI XIV 2024 yang hanya meraih 18 medali, menunjukkan daya saing mahasiswa Polmed yang semakin kuat di tingkat nasional."] },
   { id: 3,
     judul: "Delapan Gelar, Polmed Raih Juara Umum III National Welding Competition 2026",
     tanggal: "20 Juli 2026",
-    foto: "imagee/image2.png",
+    foto: "imagee/image2_min.png",
     isi: ["Politeknik Negeri Medan (Polmed) meraih Juara Umum III pada <i>National Welding Competition</i> (NWC) 2026 di PPNS, 13–17 Juli 2026. Prestasi ini diraih kontingen Jurusan Teknik Mesin melalui delapan gelar juara dalam berbagai kategori pengelasan, dengan peserta dari D3 Teknik Mesin dan D4 Teknik Rekayasa Pengelasan dan Fabrikasi."] }
 ];
 
@@ -167,9 +167,9 @@ const FITUR = [["▣", "Pendidikan Berkualitas"], ["☺", "Dosen Profesional"], 
 
 /* Data halaman Sistem Informasi */
 const SIAKAD_URL = "https://siakad.polmed.ac.id/";
-// ikon: emoji, ATAU nama file gambar (mis. "imagee/si-siakad.png")
+// ikon: emoji, ATAU nama file gambar (mis. "imagee/si-siakad_min.png")
 const SISTEM_INFO = {
-  banner: "imagee/sistem-informasi.png",
+  banner: "imagee/sistem-informasi_min.png",
   judul: "PORTAL SISTEM INFORMASI POLITEKNIK NEGERI MEDAN",
   item: [
     { ikon: "🎓", nama: "SIAKAD", url: SIAKAD_URL, ket: "Sistem Informasi Akademik" },
@@ -320,10 +320,10 @@ const FAS_WORKSHOP = {
 
 // Galeri: [label, file gambar]
 const GALERI = [
-  ["Laboratorium", "imagee/lab.png"], ["Workshop", "imagee/Picture13.png"],
-  ["Perpustakaan", "imagee/Picture14.png"], ["Masjid", "imagee/Picture15.png"],
-  ["Lapangan Futsal", "imagee/Picture16.png"], ["Kantin", "imagee/Picture17.png"],
-  ["UKM", "imagee/Picture18.png"]
+  ["Laboratorium", "imagee/lab_min.png"], ["Workshop", "imagee/Picture13_min.png"],
+  ["Perpustakaan", "imagee/Picture14_min.png"], ["Masjid", "imagee/Picture15_min.png"],
+  ["Lapangan Futsal", "imagee/Picture16_min.png"], ["Kantin", "imagee/Picture17_min.png"],
+  ["UKM", "imagee/Picture18_min.png"]
 ];
 
 // Akreditasi: [program studi, peringkat, no SK, tanggal kadaluarsa, link SK]
